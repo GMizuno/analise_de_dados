@@ -1,4 +1,4 @@
-# Visualizacao de Dados
+# Visualização de Dados
 Este repositorio contem um material de estudo sobre Numpy, Pandas, Matplolib, Seaborn, Plotly e Cuffinks.
 Todos esse pacotes estão presentes na linguagem de programação Pyhton. 
 Para visualização desse graficos foi utilizado o Jupyter Notebook.
