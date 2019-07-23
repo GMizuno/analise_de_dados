@@ -9,6 +9,3 @@ Para visualização desse graficos foi utilizado o Jupyter Notebook.
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png">
 </p>
 
-
-https://www.python.org/static/opengraph-icon-200x200.png
-https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/250px-Jupyter_logo.svg.png
